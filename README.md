@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksandr
+- 👋 Hi, I’m Andrey
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working as a Front-End developer, particularly I am excel in React/Next/Gatsby
 - 💞️ I’m looking to collaborate on a work with creative guys
